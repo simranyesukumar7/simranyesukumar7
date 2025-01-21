@@ -7,9 +7,9 @@
 ## 🔹 Technical Skills  
 `Predictive Modeling` `Machine Learning` `Natural Language Processing (NLP)` `Python` `SQL` `Docker` `Kubernetes` `GitHub` `GitLab`  
 
-**Gen AI & Natural language processing (NLP)** - GPT2, GPT-3, LLMs (BERT), Retrieval Generation (RAG), Sentiment analysis
-
 **Machine learning Models used** - Facebook prophet model, predictive models, Neural Networks, statistical modeling, Reinforcement Learning, time series forecasting models, classification models, regression, K-means clustering, decision trees, Recommendation Engine (SVD Matrix Factorization)
+
+**Gen AI & Natural language processing (NLP)** - GPT2, GPT-3, LLMs (BERT), Retrieval Generation (RAG), Sentiment analysis
 
 **Cloud Computing** - GCP, AWS (S3, EC2, Sagemaker,Lambda), Microsoft Azure (Azure Data Storage, Azure bot Service, Azure virtual agents, Azure ML), IBM Watson Assistant
 
