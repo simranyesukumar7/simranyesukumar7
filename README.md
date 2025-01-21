@@ -4,19 +4,18 @@
 
 I am a **Data Scientist** with **5+ years of experience** in **machine learning, deep learning, NLP, and AI** across industries like **HR Analytics, Finance, Retail, Travel, and Telecom**. I specialize in building **scalable AI solutions, predictive modeling, and automation** to drive **data-driven decision-making**.  
 
----
-
 ## 🔹 Technical Skills  
+`Predictive Modeling` `Machine Learning` `Natural Language Processing (NLP)` `Python` `SQL` `Docker` `Kubernetes` `GitHub` `GitLab`  
 
-#### **Languages & Tools:**  
-`Python` `SQL` `Power BI` `Tableau` `Docker` `Kubernetes` `GitHub` `GitLab`  
+**Gen AI & Natural language processing (NLP)** - GPT2, GPT-3, LLMs (BERT), Retrieval Generation (RAG), Sentiment analysis
 
-#### **Machine Learning & AI:**  
-- **NLP** → BERT, Transformers, Spacy, NLTK  
-- **Deep Learning** → TensorFlow, PyTorch, Keras  
-- **Big Data** → Spark, Teradata, Neo4j  
-- **Cloud & MLOps** → AWS (EC2, S3, Sagemaker), GCP, Microsoft Azure (Azure Data Storage, Azure bot Service, Azure virtual agents, Azure ML), MLflow  
+**Machine learning Models used** - Facebook prophet model, predictive models, Neural Networks, statistical modeling, Reinforcement Learning, time series forecasting models, classification models, regression, K-means clustering, decision trees, Recommendation Engine (SVD Matrix Factorization)
 
+**Cloud Computing** - GCP, AWS (S3, EC2, Sagemaker,Lambda), Microsoft Azure (Azure Data Storage, Azure bot Service, Azure virtual agents, Azure ML), IBM Watson Assistant
+
+**Data Visualization Tools** - Power BI, Tableau
+
+**Domain experience- Travel Transport and Hospitality (TTH), Finance, Human Resources (HR)/People Analytics/HR Data Analytics, Retail, Enterprise Intelligent Automation & Artificial Intelligence (EIA &AI)**
 ---
 
 ## 🌍 Connect with Me  
