@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | AI & ML Specialist | NLP & LLMs | Data Visualization**  
 
-I am a **Data Scientist** with **5+ years of experience** in **machine learning, deep learning, NLP, and AI** across industries like **HR Analytics, Finance, Retail, Travel, and Telecom**. I specialize in building **scalable AI solutions, predictive modeling, and automation** to drive **data-driven decision-making**.  
+**Data Scientist** with **5+ years of experience** with expertise in Data Analytics, Machine learning and Deep learning across domains like Travel Transport and Hospitality (TTH), Finance, Human Resources (HR)/People Analytics/HR Data Analytics, Retail, Enterprise Intelligent Automation & Artificial Intelligence (EIA &AI).
 
 ## 🔹 Technical Skills  
 `Predictive Modeling` `Machine Learning` `Natural Language Processing (NLP)` `Python` `SQL` `Docker` `Kubernetes` `GitHub` `GitLab`  
@@ -15,7 +15,6 @@ I am a **Data Scientist** with **5+ years of experience** in **machine learning,
 
 **Data Visualization Tools** - Power BI, Tableau
 
-**Domain experience- Travel Transport and Hospitality (TTH), Finance, Human Resources (HR)/People Analytics/HR Data Analytics, Retail, Enterprise Intelligent Automation & Artificial Intelligence (EIA &AI)**
 ---
 
 ## 🌍 Connect with Me  
